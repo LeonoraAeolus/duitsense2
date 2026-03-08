@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --color-growth-green: #00C853;
+  --color-trust-blue: #2962FF;
+  --color-caution-yellow: #FFD600;
+  --color-soft-grey: #F5F7FA;
+}
